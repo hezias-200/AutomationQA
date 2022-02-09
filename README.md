@@ -5,7 +5,7 @@ Automate test with playwright framework , written with javascript.\
 the purpose of the project build automation system test for UI and API.\
 Links: playwright.dev/docs/pom
 
--  TEST PROJECT
+- TEST PROJECT
   - Project: typicode
   - website: https://jsonplaceholder.typicode.com
   - type: restful api test 
