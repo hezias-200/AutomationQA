@@ -79,7 +79,7 @@ $ npx playwright show-report
 ```
 
 **Output**
-![Screen Shot 2022-02-06 at 14 13 13](https://user-images.githubusercontent.com/33747218/152680215-b2187098-03fc-46a9-9943-c141ef8de6ac.png)
+![Reports](https://user-images.githubusercontent.com/62279337/153243278-edc88d2b-7bd8-4387-b89b-26e616980af0.JPG)
 
 <BR>
 
